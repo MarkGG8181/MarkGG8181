@@ -1,4 +1,4 @@
-# Hi, I'm MarkGG8181 👋
+# Hi
 
 ## 💻 About Me
 - **Java & C# Developer**
