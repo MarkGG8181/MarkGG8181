@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm MarkGG8181 👋
 
-<!--
-**MarkGG8181/MarkGG8181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- **Java & C# Developer**
+- Owner & founder of the **biggest Minecraft archive:**  
+  [Wonderland Library](https://wonderlandlibrary.github.io/)
+- Owner & co-founder of the **Sigma Client Continuation Project:**  
+  [Sigma Skidder Team](https://github.com/Sigma-Skidder-Team)
+- Passionate about building, preserving, and innovating in the Minecraft community
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- 🚀 [Wonderland Library](https://wonderlandlibrary.github.io/)  
+  The largest Minecraft archive—preserving the history, mods, and culture of Minecraft for the community.
+- 🛡️ [Sigma Client Continuation Project](https://github.com/Sigma-Skidder-Team)  
+  Open-source continuation of the popular Sigma Minecraft client, supporting new features and an active dev community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- **Discord:** desync_lord
+- **YouTube:** [@noarcc](https://www.youtube.com/@noarcc)
+
+---
+
+> “Preserving the past, building the future—one block at a time.”  
+
+![MarkGG8181's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkGG8181&show_icons=true&theme=tokyonight)
