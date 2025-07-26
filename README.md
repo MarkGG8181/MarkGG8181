@@ -1,5 +1,3 @@
-# Hi
-
 ## 💻 About Me
 - **Java & C# Developer**
 - Owner & founder of the **biggest Minecraft archive:**  
